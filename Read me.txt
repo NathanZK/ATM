@@ -1,0 +1,17 @@
+Number 	Section			id			name
+1 		A		ATR/5890/11			Nathan Zelalem
+2		A		ATR/2809/11			Abenezer Samuel
+3		A		ATR/1452/11			Yosef Sirak
+4		B		ATR/1961/11			Elias Solomon
+5		B		ATR/9813/11			Getnet Demle
+6		A		ATR/1155/11			Abubaker Abdulaziz
+7		B 		ATR/5322/11			Eyouel Haile
+8		B		ATR/5509/11			Bilen Measho
+9		C		ETR/5704/11			Lealem Kinfe
+10		B		ATR/6116/11			Nahom Behailu
+11		A		ATR/3436/11			Ephrem Markos
+12		A		ATR/9026/12			Munir Abdu
+13		A		ATR/1964/11			Bisrat Ashagre
+14		B		ATR/9703/11			Kirubel Tabu
+15		A		ATR/8485/11			Nahom Aynalem
+
